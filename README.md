@@ -16,11 +16,11 @@ Relevant Coursework: Data Analysis, Software Engineering, Operating Systems, Alg
 ### Work Experience
 Innovit USA
 Data Analyst Intern
-● Leveraged Python for data preprocessing, improving efficiency by 40% and facilitating rapid analysis.
-● Utilized SQL to streamline database access, reducing query response times by 30% and enhancing data retrieval.
-● Collaborated cross-functionally, employing C and C++ to devise data governance strategies, reducing data-related issues by 25%. 
-● Demonstrated proficiency in Tableau to create dashboards showcasing key metrics, aiding in data trend analysis.
-● Employed AWS services such as S3 for data storage and retrieval, optimizing the data handling process.
+●  Leveraged Python for data preprocessing, improving efficiency by 40% and facilitating rapid analysis.
+●  Utilized SQL to streamline database access, reducing query response times by 30% and enhancing data retrieval.
+●  Collaborated cross-functionally, employing C and C++ to devise data governance strategies, reducing data-related issues by 25%. 
+●  Demonstrated proficiency in Tableau to create dashboards showcasing key metrics, aiding in data trend analysis.
+●  Employed AWS services such as S3 for data storage and retrieval, optimizing the data handling process.
 
 Mirah Boston, MA Research Intern Jan 2023 – June 2023 
 ● Utilized Python to preprocess PHQ9 data, improving efficiency by 40%.
